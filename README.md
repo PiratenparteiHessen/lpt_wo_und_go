@@ -39,7 +39,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (8) Eine Abwahl __*{[GO-Antrag auf Abwahl eines Versammlungsleiters](#§19-abwahl-eines-versammlungsleiters), Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschließend ein neuer Versammlungsleiter gewählt.
 
-(9) Hebt ein Pirat beide Hände und ruft "Nehmen Sie diesen Auftrag an?", summt der Parteitag gemeinsam die Titelmelodie von "Mission Impossible". Dieser Absatz wird sich anschließend selbst zerstören.
+(9) (gestrichen)
 
 ## §5 Wahlleitung
 
@@ -95,7 +95,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (1) Für die Wahlen kann sich jeder Pirat aufstellen oder aufstellen lassen, sofern dem nicht Gesetze, die Satzung oder verhängte Ordnungsmaßnahmen entgegenstehen. Jeder kann einen Piraten zur Kandidatur vorschlagen.
 
-(2) Der Wahlleiter ruft vor der Wahl zur Kandidatenaufstellung auf und gibt den Kandidaten Zeit, sich zu melden.
+<a id="p8_2"></a>(2) Der Wahlleiter ruft vor der Wahl zur Kandidatenaufstellung auf und gibt den Kandidaten Zeit, sich zu melden.
 
 (3) Vor der Schließung der Kandidatenaufstellung ist diese vom Wahlleiter bekannt zu geben. Daraufhin ist ein letzter Aufruf zu starten. Meldet sich innerhalb angemessener Zeit kein neuer Kandidat, so wird die Liste geschlossen.
 
@@ -119,11 +119,11 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (2) Auf Verlangen wird eine Wahl geheim durchgeführt. __*{[GO-Antrag auf geheime Wahl](#§22-geheime-wahl), Antragsstellung vor einer Wahl}*__
 
-(3) Gibt es nur einen Kandidaten, so wird mit "Ja" oder "Nein" abgestimmt. Der Kandidat ist gewählt, falls mehr Ja- als Nein-Stimmen abgegeben wurden. Bei Ablehnung des Kandidaten wird ein weiterer Wahlgang gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+(3) Gibt es nur einen Kandidaten, so wird mit "Ja" oder "Nein" abgestimmt. Der Kandidat ist gewählt, falls mehr Ja- als Nein-Stimmen abgegeben wurden. Bei Ablehnung des Kandidaten wird ein weiterer Wahlgang gemäß [§8 Kandidaturen Absatz 2](#p8_2) durchgeführt.
 
-(4) Gibt es mehrere Kandidaten, findet eine Wahl durch Zustimmung statt. Gewählt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhält. Erhält kein Kandidat die absolute Mehrheit wird zwischen den Kandidaten, deren Stimmzahl den zwei höchsten Stimmzahlen entspricht, eine Wahl durch Zustimmung durchgeführt. Gewählt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhält. Bei Ablehnung aller Kandidaten wird ein weiterer Wahlgang gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+(4) Gibt es mehrere Kandidaten, findet eine Wahl durch Zustimmung statt. Gewählt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhält. Erhält kein Kandidat die absolute Mehrheit wird zwischen den Kandidaten, deren Stimmzahl den zwei höchsten Stimmzahlen entspricht, eine Wahl durch Zustimmung durchgeführt. Gewählt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhält. Bei Ablehnung aller Kandidaten wird ein weiterer Wahlgang gemäß [§8 Kandidaturen Absatz 2](#p8_2) durchgeführt.
 
-(5) Gibt es mehrere Kandidaten für mehrere Ämter gleicher Bezeichnung, findet eine Wahl durch Zustimmung statt. Gewählt sind die Kandidaten, welche die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhalten, bis die zu besetzende Zahl der Ämter erreicht ist. Erhalten nicht genug Kandidaten die absolute Mehrheit wird ein weiterer Wahlgang für die verbliebenen Ämter gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+(5) Gibt es mehrere Kandidaten für mehrere Ämter gleicher Bezeichnung, findet eine Wahl durch Zustimmung statt. Gewählt sind die Kandidaten, welche die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhalten, bis die zu besetzende Zahl der Ämter erreicht ist. Erhalten nicht genug Kandidaten die absolute Mehrheit wird ein weiterer Wahlgang für die verbliebenen Ämter gemäß [§8 Kandidaturen Absatz 2](#p8_2) durchgeführt.
 
 (6) Sollten mehrere Kandidaten mit absoluter Mehrheit und mit gleicher Stimmzahl, aber nicht mehr ausreichend zu vergebende Ämter vorhanden sein, findet zwischen diesen Kandidaten eine Stichwahl statt, bei der der Kandidat mit den meisten Stimmen gewählt ist. Kommt es bei dieser Stichwahl zu einem Gleichstand, entscheidet das Los.
 
