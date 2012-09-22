@@ -1,5 +1,5 @@
-Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteitag am 19. - 20.05.2012
-=====================================================================================================
+Die Wahl- und Geschäftsordnung für Landesparteitage der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 19. - 20.05.2012
+================================================================================================================================================================
 
 # §1 Allgemeines
 
