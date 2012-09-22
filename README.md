@@ -37,7 +37,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (7) Kommt es im Laufe der Versammlung zu einer formalen Verklemmung, ist die Versammlungsleitung berechtigt, diese per Entscheid aufzulösen.
 
-(8) Eine Abwahl __*{GO-Antrag auf Abwahl eines Versammlungsleiters, Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschließend ein neuer Versammlungsleiter gewählt.
+(8) Eine Abwahl __*{[GO-Antrag auf Abwahl eines Versammlungsleiters](#§19-abwahl-eines-versammlungsleiters), Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschließend ein neuer Versammlungsleiter gewählt.
 
 (9) Hebt ein Pirat beide Hände und ruft "Nehmen Sie diesen Auftrag an?", summt der Parteitag gemeinsam die Titelmelodie von "Mission Impossible". Dieser Absatz wird sich anschließend selbst zerstören.
 
@@ -59,7 +59,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 * das Auszählen der Stimmen.
 
-(3) Der Wahlleiter kann Anwesende, die sich freiwillig melden, zu Wahlhelfern ernennen, die ihn in seiner Arbeit unterstützen und ebenfalls nicht für ein Amt kandidieren dürfen. Die Versammlung kann einzelne Wahlhelfer ablehnen. __*{GO-Antrag auf Ablehnung eines Wahlhelfers, Antragsstellung vor Beginn eines Tagesordnungspunktes oder vor einer Abstimmung / Wahl}*__
+(3) Der Wahlleiter kann Anwesende, die sich freiwillig melden, zu Wahlhelfern ernennen, die ihn in seiner Arbeit unterstützen und ebenfalls nicht für ein Amt kandidieren dürfen. Die Versammlung kann einzelne Wahlhelfer ablehnen. __*{[GO-Antrag auf Ablehnung eines Wahlhelfers](#§21-ablehnung-eines-wahlhelfers), Antragsstellung vor Beginn eines Tagesordnungspunktes oder vor einer Abstimmung / Wahl}*__
 
 (4) Der Wahlleiter fertigt ein Wahlprotokoll über alle Wahlen der Versammlung an, das von ihm selbst zu unterschreiben und somit zu beurkunden ist.
 
@@ -67,7 +67,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (6) Alle Piraten, insbesondere jedoch die Wahlhelfer, sind verpflichtet, Vorkommnisse, die die Rechtmäßigkeit der Wahl in Frage stellen, sofort dem Wahlleiter bekannt zu machen, der unverzüglich die Versammlung darüber in Kenntnis zu setzen hat.
 
-(7) Eine Abwahl __*{GO-Antrag auf Abwahl des Wahlleiters, Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschließend ein neuer Wahlleiter gewählt.
+(7) Eine Abwahl __*{[GO-Antrag auf Abwahl des Wahlleiters](#§20-abwahl-des-wahlleiters), Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschließend ein neuer Wahlleiter gewählt.
 
 ## §6 Protokollführung
 
