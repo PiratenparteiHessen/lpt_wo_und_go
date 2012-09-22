@@ -127,7 +127,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (6) Sollten mehrere Kandidaten mit absoluter Mehrheit und mit gleicher Stimmzahl, aber nicht mehr ausreichend zu vergebende Ämter vorhanden sein, findet zwischen diesen Kandidaten eine Stichwahl statt, bei der der Kandidat mit den meisten Stimmen gewählt ist. Kommt es bei dieser Stichwahl zu einem Gleichstand, entscheidet das Los.
 
-(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{[GO-Antrag auf Änderung der Reihenfolge der Wahlgänge)(#§A726-%C3%84nderung-der-reihenfolge-der-wahlg%C3%A4nge), Antragsstellung vor einem Wahlgang}*__
+(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{[GO-Antrag auf Änderung der Reihenfolge der Wahlgänge)(#§26-%C3%84nderung-der-reihenfolge-der-wahlg%C3%A4nge), Antragsstellung vor einem Wahlgang}*__
 
 # §11 Anträge
 
