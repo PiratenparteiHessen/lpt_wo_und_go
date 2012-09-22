@@ -88,3 +88,43 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteita
 (3) Es wird durch Unterschrift eines Versammlungsleiters, des Wahlleiters und des am Ende der Versammlung amtierenden Vorstandsvorsitzenden oder dessen Stellvertreters beurkundet.
 
 (4) Es ist den Piraten (im Sinne der Satzung) durch Veröffentlichung auf üblichen Kommunikationswegen unverzüglich zugänglich zu machen.
+
+# §7 Kandidaturen und Wahlen
+
+## §8 Kandidaturen
+
+(1) Für die Wahlen kann sich jeder Pirat aufstellen oder aufstellen lassen, sofern dem nicht Gesetze, die Satzung oder verhängte Ordnungsmaßnahmen entgegenstehen. Jeder kann einen Piraten zur Kandidatur vorschlagen.
+
+(2) Der Wahlleiter ruft vor der Wahl zur Kandidatenaufstellung auf und gibt den Kandidaten Zeit, sich zu melden.
+
+(3) Vor der Schließung der Kandidatenaufstellung ist diese vom Wahlleiter bekannt zu geben. Daraufhin ist ein letzter Aufruf zu starten. Meldet sich innerhalb angemessener Zeit kein neuer Kandidat, so wird die Liste geschlossen.
+
+(4) Wurde die Kandidatenliste geschlossen, so kann sich für den folgenden Wahlgang niemand mehr aufstellen.
+
+## §9 Vorstellung der Kandidaten
+
+(1) Die Versammlung entscheidet über die Rede- und Befragungszeit der Kandidaten, die jeweils zwischen 3 und 10 Minuten liegen darf.
+
+(2) Jeder Kandidat erhält die von der Versammlung vorgegebene Zeit, um sich vorzustellen. Die Kandidaten stellen sich in alphabetischer Reihenfolge vor.
+
+(3) Nach Ende der Vorstellung aller Kandidaten werden jedem Kandidaten in der vereinbarten Befragungszeit Fragen gestellt. Eine einmalige Verlängerung der Befragung ist nach Abstimmung möglich.
+
+(4) Sollte ein Kandidat bereits auf der Versammlung für ein anderes Amt kandidiert haben, kann dieser sich 2 Minuten vorstellen, eine Befragung findet nicht statt.
+
+(5) Der Versammlungsleitung steht es zu, Fragen nicht zuzulassen. Sie muss die Nichtzulassung begründen.
+
+## §10 Wahlen
+
+(1) Die Wahlen der Vorstandsmitglieder und des Schiedsgerichts sind geheim. Andere Wahlen finden grundsätzlich offen statt.
+
+(2) Auf Verlangen wird eine Wahl geheim durchgeführt. __*{GO-Antrag auf geheime Wahl, Antragsstellung vor einer Wahl}*__
+
+(3) Gibt es nur einen Kandidaten, so wird mit "Ja" oder "Nein" abgestimmt. Der Kandidat ist gewählt, falls mehr Ja- als Nein-Stimmen abgegeben wurden. Bei Ablehnung des Kandidaten wird ein weiterer Wahlgang gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+
+(4) Gibt es mehrere Kandidaten, findet eine Wahl durch Zustimmung statt. Gewählt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhält. Erhält kein Kandidat die absolute Mehrheit wird zwischen den Kandidaten, deren Stimmzahl den zwei höchsten Stimmzahlen entspricht, eine Wahl durch Zustimmung durchgeführt. Gewählt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhält. Bei Ablehnung aller Kandidaten wird ein weiterer Wahlgang gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+
+(5) Gibt es mehrere Kandidaten für mehrere Ämter gleicher Bezeichnung, findet eine Wahl durch Zustimmung statt. Gewählt sind die Kandidaten, welche die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhalten, bis die zu besetzende Zahl der Ämter erreicht ist. Erhalten nicht genug Kandidaten die absolute Mehrheit wird ein weiterer Wahlgang für die verbliebenen Ämter gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+
+(6) Sollten mehrere Kandidaten mit absoluter Mehrheit und mit gleicher Stimmzahl, aber nicht mehr ausreichend zu vergebende Ämter vorhanden sein, findet zwischen diesen Kandidaten eine Stichwahl statt, bei der der Kandidat mit den meisten Stimmen gewählt ist. Kommt es bei dieser Stichwahl zu einem Gleichstand, entscheidet das Los.
+
+(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{GO-Antrag auf Änderung der Reihenfolge der Wahlgänge, Antragsstellung vor einem Wahlgang}*__
