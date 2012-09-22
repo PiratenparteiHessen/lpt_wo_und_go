@@ -128,3 +128,55 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteita
 (6) Sollten mehrere Kandidaten mit absoluter Mehrheit und mit gleicher Stimmzahl, aber nicht mehr ausreichend zu vergebende Ämter vorhanden sein, findet zwischen diesen Kandidaten eine Stichwahl statt, bei der der Kandidat mit den meisten Stimmen gewählt ist. Kommt es bei dieser Stichwahl zu einem Gleichstand, entscheidet das Los.
 
 (7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{GO-Antrag auf Änderung der Reihenfolge der Wahlgänge, Antragsstellung vor einem Wahlgang}*__
+
+# §11 Anträge
+
+## §12 Abstimmungen über Anträge
+
+(1) Gibt es zwei oder mehr Anträge, die sich gegenseitig ausschließen, so wird zusätzlich darüber abgestimmt, ob keiner dieser Anträge angenommen werden soll. Der Antrag mit der größten Zustimmung und der nach Gesetz, Satzung oder dieser Geschäftsordnung geforderten Mehrheit gilt als angenommen, wobei jeder Pirat beliebig vielen Anträgen zustimmen kann. Erreicht der Antrag mit der größten Zustimmung keine eindeutige geforderte Mehrheit, so wird dieser erneut abgestimmt.
+
+(2) Steht nur ein Antrag zur Abstimmung, so muss dieser die gegebenenfalls durch diese Geschäftsordnung, die Satzung oder ein Gesetz geforderte Mehrheit erreichen.
+
+(3) Die Mehrheitsverhältnisse werden grundsätzlich nach Augenmaß des Versammlungsleiters festgestellt, bei unklaren Verhältnissen oder auf Antrag der Versammlung erfolgt eine genaue Auszählung. __*{GO-Antrag auf Auszählung einer Abstimmung, Antragsstellung nach einer Abstimmung}*__
+
+(4) Alle Abstimmungen oder Beschlüsse finden mit einfacher Mehrheit (Zustimmung bei mehr als der Hälfte der abgegebenen Stimmen) und grundsätzlich öffentlich, durch Zeigen der Stimmkarte statt, sofern nicht die Satzung, die Geschäftsordnung oder ein Gesetz etwas anderes bestimmt.
+
+(5) Auf Verlangen wird eine Abstimmung geheim durchgeführt. __*{GO-Antrag auf geheime Abstimmung, Antragsstellung vor einer Abstimmung}*__
+
+(6) Abweichend hiervon wird über Geschäftsordnungsanträge immer öffentlich abgestimmt.
+
+## §13 Anträge an die Versammlung
+
+(1) Zu Beginn der Beratung eines neuen Antrags hat der Antragsteller eines jeden aufgerufenen Antrags das Recht, seinen Antrag in kompakter Rede vorzustellen (Antragsbegründung). Anschließend folgt die Aussprache. Die Reihenfolge der Wortbeiträge in der Aussprache wird von der Versammlungsleitung festgelegt.
+
+(2) Wortbeiträge müssen sich auf den Antragsgegenstand beziehen und haben kompakt und frei von Wiederholungen zu sein.
+
+(3) Die Versammlung kann die Liste der Wortmeldungen schließen __*{GO-Antrag auf Schließung der Redeliste, Antragstellung außerhalb eines Redebeitrags}*__ und Redezeiten begrenzen __*{GO-Antrag auf Begrenzung der Redezeit, Antragstellung außerhalb eines Redebeitrags}*__.
+
+(4) Wenn mehrere Anträge als Block abgestimmt werden und der Block abgelehnt wird, dann wird noch einmal darüber abgestimmt, ob die Anträge in dem Block noch einmal einzeln behandelt werden sollen.
+
+## §14 Anträge auf Änderung der Satzung
+
+(1) Es gelten die Regelungen aus §13 Anträge an die Versammlung entsprechend.
+
+(2) Bei Abstimmungen über die Änderung der Satzung sind doppelt so viele Ja- wie Nein-Stimmen erforderlich (Zwei-Drittel-Mehrheit).
+
+## §15 Anträge auf Änderung des Programms
+
+(1) Es gelten die Regelungen aus §13 Anträge an die Versammlung entsprechend.
+
+(2) Bei Abstimmungen über die Änderung des Parteiprogramms sind doppelt so viele Ja- wie Nein-Stimmen erforderlich (Zwei-Drittel-Mehrheit).
+
+## §16 Anträge zur Geschäftsordnung
+
+(1) Es sind nur die in §17ff Geschäftsordnungsanträge benannten Geschäftsordnungsanträge zulässig.
+
+(2) Insofern in dieser Geschäftsordnung nicht anders geregelt, kann jeder Pirat jederzeit einen zulässigen GO-Antrag stellen, indem er beide Hände hebt und sich an das dafür vorgesehene Saalmikrofon begibt. Die Wortmeldung zu einem GO-Antrag hat Vorrang vor anderen Wortmeldungen. Sie unterbricht weder einen laufenden Wortbeitrag noch eine eröffnete Wahl (also ab Beginn der vom Wahlleiters eröffneten Stimmabgabe bis zu deren Ende) oder Abstimmung.
+
+(3) Versucht ein Teilnehmer, einen nicht zulässigen GO-Antrag oder einen GO-Antrag in einer nicht zulässigen Form zu stellen, entzieht ihm der Versammlungsleiter unverzüglich das Wort.
+
+(4) Um Missverständnisse zu vermeiden, kann die Versammlungsleitung bei GO-Anträgen verlangen, dass diese als Text bei der Versammlungsleitung eingereicht werden.
+
+(5) Wurde ein GO-Antrag gestellt, so kann jeder Pirat entsprechend Absatz 2 einen GO-Alternativantrag stellen __*{GO-Alternativantrag, Antragsstellung direkt nach einem GO-Antrag bzw. Alternativantrag}*__. Andere Anträge sind bis zum Beschluss über den Antrag oder dessen Rückzug nicht zulässig.
+
+(6) Unterbleibt eine begründete Gegenrede oder wurde kein Alternativantrag gestellt, so erfolgt eine automatische formelle Gegenrede. Gibt es eine begründete oder formale Gegenrede oder gibt es mindestens einen Alternativantrag, so wird über den Antrag bzw. die Anträge abgestimmt. Im letzteren Fall gilt §12 Abstimmungen über Anträge Absatz 1 entsprechend.
