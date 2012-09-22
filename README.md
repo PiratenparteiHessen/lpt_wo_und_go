@@ -117,7 +117,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (1) Die Wahlen der Vorstandsmitglieder und des Schiedsgerichts sind geheim. Andere Wahlen finden grundsätzlich offen statt.
 
-(2) Auf Verlangen wird eine Wahl geheim durchgeführt. __*{GO-Antrag auf geheime Wahl, Antragsstellung vor einer Wahl}*__
+(2) Auf Verlangen wird eine Wahl geheim durchgeführt. __*{[GO-Antrag auf geheime Wahl](#§22-geheime-wahl), Antragsstellung vor einer Wahl}*__
 
 (3) Gibt es nur einen Kandidaten, so wird mit "Ja" oder "Nein" abgestimmt. Der Kandidat ist gewählt, falls mehr Ja- als Nein-Stimmen abgegeben wurden. Bei Ablehnung des Kandidaten wird ein weiterer Wahlgang gemäß §8 Kandidaturen Absatz 2 durchgeführt.
 
@@ -127,7 +127,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (6) Sollten mehrere Kandidaten mit absoluter Mehrheit und mit gleicher Stimmzahl, aber nicht mehr ausreichend zu vergebende Ämter vorhanden sein, findet zwischen diesen Kandidaten eine Stichwahl statt, bei der der Kandidat mit den meisten Stimmen gewählt ist. Kommt es bei dieser Stichwahl zu einem Gleichstand, entscheidet das Los.
 
-(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{GO-Antrag auf Änderung der Reihenfolge der Wahlgänge, Antragsstellung vor einem Wahlgang}*__
+(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{[GO-Antrag auf Änderung der Reihenfolge der Wahlgänge)(#§A726-%C3%84nderung-der-reihenfolge-der-wahlg%C3%A4nge), Antragsstellung vor einem Wahlgang}*__
 
 # §11 Anträge
 
@@ -137,11 +137,11 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (2) Steht nur ein Antrag zur Abstimmung, so muss dieser die gegebenenfalls durch diese Geschäftsordnung, die Satzung oder ein Gesetz geforderte Mehrheit erreichen.
 
-(3) Die Mehrheitsverhältnisse werden grundsätzlich nach Augenmaß des Versammlungsleiters festgestellt, bei unklaren Verhältnissen oder auf Antrag der Versammlung erfolgt eine genaue Auszählung. __*{GO-Antrag auf Auszählung einer Abstimmung, Antragsstellung nach einer Abstimmung}*__
+(3) Die Mehrheitsverhältnisse werden grundsätzlich nach Augenmaß des Versammlungsleiters festgestellt, bei unklaren Verhältnissen oder auf Antrag der Versammlung erfolgt eine genaue Auszählung. __*{[GO-Antrag auf Auszählung einer Abstimmung](#§25-ausz%C3%A4hlung-einer-abstimmung), Antragsstellung nach einer Abstimmung}*__
 
 (4) Alle Abstimmungen oder Beschlüsse finden mit einfacher Mehrheit (Zustimmung bei mehr als der Hälfte der abgegebenen Stimmen) und grundsätzlich öffentlich, durch Zeigen der Stimmkarte statt, sofern nicht die Satzung, die Geschäftsordnung oder ein Gesetz etwas anderes bestimmt.
 
-(5) Auf Verlangen wird eine Abstimmung geheim durchgeführt. __*{GO-Antrag auf geheime Abstimmung, Antragsstellung vor einer Abstimmung}*__
+(5) Auf Verlangen wird eine Abstimmung geheim durchgeführt. __*{[GO-Antrag auf geheime Abstimmung](#§23-geheime-abstimmung), Antragsstellung vor einer Abstimmung}*__
 
 (6) Abweichend hiervon wird über Geschäftsordnungsanträge immer öffentlich abgestimmt.
 
@@ -151,7 +151,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (2) Wortbeiträge müssen sich auf den Antragsgegenstand beziehen und haben kompakt und frei von Wiederholungen zu sein.
 
-(3) Die Versammlung kann die Liste der Wortmeldungen schließen __*{GO-Antrag auf Schließung der Redeliste, Antragstellung außerhalb eines Redebeitrags}*__ und Redezeiten begrenzen __*{GO-Antrag auf Begrenzung der Redezeit, Antragstellung außerhalb eines Redebeitrags}*__.
+(3) Die Versammlung kann die Liste der Wortmeldungen schließen __*{[GO-Antrag auf Schließung der Redeliste](#$28-schlie%C3%9Fung-der-redeliste), Antragstellung außerhalb eines Redebeitrags}*__ und Redezeiten begrenzen __*{[GO-Antrag auf Begrenzung der Redezeit](#§30-begrenzung-der-redezeit), Antragstellung außerhalb eines Redebeitrags}*__.
 
 (4) Wenn mehrere Anträge als Block abgestimmt werden und der Block abgelehnt wird, dann wird noch einmal darüber abgestimmt, ob die Anträge in dem Block noch einmal einzeln behandelt werden sollen.
 
@@ -177,7 +177,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (4) Um Missverständnisse zu vermeiden, kann die Versammlungsleitung bei GO-Anträgen verlangen, dass diese als Text bei der Versammlungsleitung eingereicht werden.
 
-(5) Wurde ein GO-Antrag gestellt, so kann jeder Pirat entsprechend Absatz 2 einen GO-Alternativantrag stellen __*{GO-Alternativantrag, Antragsstellung direkt nach einem GO-Antrag bzw. Alternativantrag}*__. Andere Anträge sind bis zum Beschluss über den Antrag oder dessen Rückzug nicht zulässig.
+(5) Wurde ein GO-Antrag gestellt, so kann jeder Pirat entsprechend Absatz 2 einen GO-Alternativantrag stellen __*{[GO-Alternativantrag](#§27-go-alternativantrag), Antragsstellung direkt nach einem GO-Antrag bzw. Alternativantrag}*__. Andere Anträge sind bis zum Beschluss über den Antrag oder dessen Rückzug nicht zulässig.
 
 (6) Unterbleibt eine begründete Gegenrede oder wurde kein Alternativantrag gestellt, so erfolgt eine automatische formelle Gegenrede. Gibt es eine begründete oder formale Gegenrede oder gibt es mindestens einen Alternativantrag, so wird über den Antrag bzw. die Anträge abgestimmt. Im letzteren Fall gilt §12 Abstimmungen über Anträge Absatz 1 entsprechend.
 
