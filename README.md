@@ -1,314 +1,314 @@
-Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteitag am 19. - 20.05.2012
+Landesparteitags Wahl- und GeschÃ¤ftsordnung verabschiedet auf dem Landesparteitag am 19. - 20.05.2012
 =====================================================================================================
 
-# §1 Allgemeines
+# Â§1 Allgemeines
 
-(1) Nimmt ein Pirat nur an Teilen der Versammlung teil, so entstehen hieraus keine rückwirkenden Rechte, insbesondere ist keine Anfechtung von Wahlergebnissen oder Entscheiden möglich.
+(1) Nimmt ein Pirat nur an Teilen der Versammlung teil, so entstehen hieraus keine rÃ¼ckwirkenden Rechte, insbesondere ist keine Anfechtung von Wahlergebnissen oder Entscheiden mÃ¶glich.
 
-(2) Ämter und Befugnisse der Versammlung enden, wenn nicht explizit anders bestimmt, mit dem Ende der Versammlung.
+(2) Ã„mter und Befugnisse der Versammlung enden, wenn nicht explizit anders bestimmt, mit dem Ende der Versammlung.
 
-# §2 Akkreditierung
+# Â§2 Akkreditierung
 
-(1) Zur Zulassung zur Versammlung wird vor Ort eine Registrierung eingerichtet. Sie besteht aus dem Beauftragten des Verbands und aus Piraten, die von diesem hierfür beauftragt wurden. Es wird geprüft, ob die Person Pirat mit Stimmrecht, Pirat ohne Stimmrecht oder Gast ist und entsprechendes Material ausgegeben. Es wird festgehalten und auf Anfrage dem Wahlleiter mitgeteilt, wie viele Piraten zu jeder Wahl bzw. Abstimmung stimmberechtigt sind.
+(1) Zur Zulassung zur Versammlung wird vor Ort eine Registrierung eingerichtet. Sie besteht aus dem Beauftragten des Verbands und aus Piraten, die von diesem hierfÃ¼r beauftragt wurden. Es wird geprÃ¼ft, ob die Person Pirat mit Stimmrecht, Pirat ohne Stimmrecht oder Gast ist und entsprechendes Material ausgegeben. Es wird festgehalten und auf Anfrage dem Wahlleiter mitgeteilt, wie viele Piraten zu jeder Wahl bzw. Abstimmung stimmberechtigt sind.
 
-(2) Die Anzahl anwesender Piraten mit Stimmrecht ist jederzeit auf Anfrage des Wahlleiters oder des Versammlungsleiters oder zu bestimmten Zeitpunkten durch GO-Beschluss durch die mit der Akkreditierung beauftragten Piraten mitzuteilen. Nur Piraten, bei denen ein Stimmrecht festgestellt wurde, werden als Piraten im Sinne dieser Geschäftsordnung bezeichnet, es sei denn, es ist im Einzelfall ausdrücklich etwas anderes bestimmt. __*{GO-Antrag auf Nennung der Anzahl anwesender Stimmberechtigter, Antragsstellung vor einer Wahl oder vor einer Abstimmung}*__
+(2) Die Anzahl anwesender Piraten mit Stimmrecht ist jederzeit auf Anfrage des Wahlleiters oder des Versammlungsleiters oder zu bestimmten Zeitpunkten durch GO-Beschluss durch die mit der Akkreditierung beauftragten Piraten mitzuteilen. Nur Piraten, bei denen ein Stimmrecht festgestellt wurde, werden als Piraten im Sinne dieser GeschÃ¤ftsordnung bezeichnet, es sei denn, es ist im Einzelfall ausdrÃ¼cklich etwas anderes bestimmt.
 
-(3) Möchte ein Pirat die Teilnahme an der Versammlung unterbrechen oder die Versammlung komplett verlassen, so gibt er seine Stimmkarte bei den mit der Akkreditierung beauftragten Piraten ab und verliert somit sein Stimmrecht.
+(3) MÃ¶chte ein Pirat die Teilnahme an der Versammlung unterbrechen oder die Versammlung komplett verlassen, so gibt er seine Stimmkarte bei den mit der Akkreditierung beauftragten Piraten ab und verliert somit sein Stimmrecht.
 
 (4) Ein Mitglied der Partei, welches die Versammlung verlassen hat, kann sich erneut akkreditieren lassen, um seine Stimmkarte und das damit verbundene Stimmrecht wiederzuerlangen.
 
-# §3 Versammlungsämter
+# Â§3 VersammlungsÃ¤mter
 
-(1) Wahlen zu Versammlungsämtern werden durch Wahl durch Zustimmung durchgeführt.
+(1) Wahlen zu VersammlungsÃ¤mtern werden durch Wahl durch Zustimmung durchgefÃ¼hrt.
 
-## §4 Versammlungsleitung
+## Â§4 Versammlungsleitung
 
-(1) Die Versammlung wird durch einen Versammlungsleiter geleitet, der zu Beginn von dieser gewählt wird. Der Versammlungsleiter fungiert ebenfalls als Leiter im Sinne des §8 VersammlG.
+(1) Die Versammlung wird durch einen Versammlungsleiter geleitet, der zu Beginn von dieser gewÃ¤hlt wird. Der Versammlungsleiter fungiert ebenfalls als Leiter im Sinne des Â§8 VersammlG.
 
-(2) Der Versammlungsleiter kann mehrere Versammlungsleiterhelfer festlegen, sofern es keinen Widerspruch gibt. Versammlungsleiterhelfer können dem Versammlungsleiter bei Aufgaben helfen bzw. Aufgaben übernehmen sowie den Versammlungsleiter auf dessen Wunsch vertreten. Die Vertretung ist als Versammlungsleiterwechsel im Protokoll zu vermerken.
+(2) Der Versammlungsleiter kann mehrere Versammlungsleiterhelfer festlegen, sofern es keinen Widerspruch gibt. Versammlungsleiterhelfer kÃ¶nnen dem Versammlungsleiter bei Aufgaben helfen bzw. Aufgaben Ã¼bernehmen sowie den Versammlungsleiter auf dessen Wunsch vertreten. Die Vertretung ist als Versammlungsleiterwechsel im Protokoll zu vermerken.
 
-(3) Dem Versammlungsleiter obliegt die Einhaltung der Tagesordnung inkl. Zeitplan. Dazu teilt er Rederecht inkl. Redezeit zu bzw. entzieht diese, wobei eine angemessene inhaltliche wie personale Diskussion und Beteiligung der einzelnen Piraten sichergestellt werden muss. Jedem stimmberechtigten Pirat kann auf Verlangen eine angemessene Redezeit eingeräumt werden. Sind Gäste zugelassen, so genießen sie ebenfalls ein Rederecht. Störungen der Versammlung durch einzelne Gäste können von der Versammlungsleitung mit temporären oder dauerhaften Entzug des Rederechts, sowie im Wiederholungsfall mit dem Versammlungsausschluss abgewehrt werden.
+(3) Dem Versammlungsleiter obliegt die Einhaltung der Tagesordnung inkl. Zeitplan. Dazu teilt er Rederecht inkl. Redezeit zu bzw. entzieht diese, wobei eine angemessene inhaltliche wie personale Diskussion und Beteiligung der einzelnen Piraten sichergestellt werden muss. Jedem stimmberechtigten Pirat kann auf Verlangen eine angemessene Redezeit eingerÃ¤umt werden. Sind GÃ¤ste zugelassen, so genieÃŸen sie ebenfalls ein Rederecht. StÃ¶rungen der Versammlung durch einzelne GÃ¤ste kÃ¶nnen von der Versammlungsleitung mit temporÃ¤ren oder dauerhaften Entzug des Rederechts, sowie im Wiederholungsfall mit dem Versammlungsausschluss abgewehrt werden.
 
-(4) Der Versammlungsleiter kündigt Beginn und Ende von Sitzungsunterbrechungen sowie den Zeitpunkt der Neuaufnahme der Versammlung nach einer Vertagung an.
+(4) Der Versammlungsleiter kÃ¼ndigt Beginn und Ende von Sitzungsunterbrechungen sowie den Zeitpunkt der Neuaufnahme der Versammlung nach einer Vertagung an.
 
-(5) Grundsätzlich stellt der Versammlungsleiter die Ergebnisse von Wahlen und Abstimmungen fest, sofern dafür nicht ausdrücklich der Wahlleiter beauftragt ist. Er kann den Wahlleiter für weitere Wahlen (z.B. zu Versammlungsämtern) oder auch für bestimmte einzelne Abstimmungen beauftragen, ihn bei der Feststellung von Abstimmungsergebnissen zu unterstützen.
+(5) GrundsÃ¤tzlich stellt der Versammlungsleiter die Ergebnisse von Wahlen und Abstimmungen fest, sofern dafÃ¼r nicht ausdrÃ¼cklich der Wahlleiter beauftragt ist. Er kann den Wahlleiter fÃ¼r weitere Wahlen (z.B. zu VersammlungsÃ¤mtern) oder auch fÃ¼r bestimmte einzelne Abstimmungen beauftragen, ihn bei der Feststellung von Abstimmungsergebnissen zu unterstÃ¼tzen.
 
-(6) Die Versammlungsleitung nimmt während der Versammlung Anträge entgegen, die sie nach kurzer Prüfung auf Zulässigkeit und Dringlichkeit der Versammlung angemessen bekannt macht.
+(6) Die Versammlungsleitung nimmt wÃ¤hrend der Versammlung AntrÃ¤ge entgegen, die sie nach kurzer PrÃ¼fung auf ZulÃ¤ssigkeit und Dringlichkeit der Versammlung angemessen bekannt macht.
 
-(7) Kommt es im Laufe der Versammlung zu einer formalen Verklemmung, ist die Versammlungsleitung berechtigt, diese per Entscheid aufzulösen.
+(7) Kommt es im Laufe der Versammlung zu einer formalen Verklemmung, ist die Versammlungsleitung berechtigt, diese per Entscheid aufzulÃ¶sen.
 
-(8) Eine Abwahl __*{GO-Antrag auf Abwahl eines Versammlungsleiters, Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschließend ein neuer Versammlungsleiter gewählt.
+(8) Eine Abwahl __*{GO-Antrag auf Abwahl eines Versammlungsleiters, Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschlieÃŸend ein neuer Versammlungsleiter gewÃ¤hlt.
 
-(9) Hebt ein Pirat beide Hände und ruft "Nehmen Sie diesen Auftrag an?", summt der Parteitag gemeinsam die Titelmelodie von "Mission Impossible". Dieser Absatz wird sich anschließend selbst zerstören.
+(9) Hebt ein Pirat beide HÃ¤nde und ruft "Nehmen Sie diesen Auftrag an?", summt der Parteitag gemeinsam die Titelmelodie von "Mission Impossible". Dieser Absatz wird sich anschlieÃŸend selbst zerstÃ¶ren.
 
-## §5 Wahlleitung
+## Â§5 Wahlleitung
 
-(1) Die Versammlung wählt zur Durchführung von geheimen Abstimmungen und Wahlen zu Ämtern, die über das Ende der Versammlung hinaus bestehen, einen Wahlleiter. Dieser darf nicht Kandidat für ein Amt sein, dessen Wahl er durchzuführen hat.
+(1) Die Versammlung wÃ¤hlt zur DurchfÃ¼hrung von geheimen Abstimmungen und Wahlen zu Ã„mtern, die Ã¼ber das Ende der Versammlung hinaus bestehen, einen Wahlleiter. Dieser darf nicht Kandidat fÃ¼r ein Amt sein, dessen Wahl er durchzufÃ¼hren hat.
 
-(2) Die Durchführung umfasst
+(2) Die DurchfÃ¼hrung umfasst
 
-* die Ankündigung einer Wahl oder einer geheimen Abstimmung,
+* die AnkÃ¼ndigung einer Wahl oder einer geheimen Abstimmung,
 
-* Hinweise auf die Modalitäten der Wahl,
+* Hinweise auf die ModalitÃ¤ten der Wahl,
 
-* die Eröffnung und die Beendigung einer Wahl oder einer geheimen Abstimmung,
+* die ErÃ¶ffnung und die Beendigung einer Wahl oder einer geheimen Abstimmung,
 
 * das Sicherstellen der Einhaltung der Wahlordnung insbesondere bei einer geheimen Wahl,
 
 * das Entgegennehmen der Stimmzettel,
 
-* das Auszählen der Stimmen.
+* das AuszÃ¤hlen der Stimmen.
 
-(3) Der Wahlleiter kann Anwesende, die sich freiwillig melden, zu Wahlhelfern ernennen, die ihn in seiner Arbeit unterstützen und ebenfalls nicht für ein Amt kandidieren dürfen. Die Versammlung kann einzelne Wahlhelfer ablehnen. __*{GO-Antrag auf Ablehnung eines Wahlhelfers, Antragsstellung vor Beginn eines Tagesordnungspunktes oder vor einer Abstimmung / Wahl}*__
+(3) Der Wahlleiter kann Anwesende, die sich freiwillig melden, zu Wahlhelfern ernennen, die ihn in seiner Arbeit unterstÃ¼tzen und ebenfalls nicht fÃ¼r ein Amt kandidieren dÃ¼rfen. Die Versammlung kann einzelne Wahlhelfer ablehnen. __*{GO-Antrag auf Ablehnung eines Wahlhelfers, Antragsstellung vor Beginn eines Tagesordnungspunktes oder vor einer Abstimmung / Wahl}*__
 
-(4) Der Wahlleiter fertigt ein Wahlprotokoll über alle Wahlen der Versammlung an, das von ihm selbst zu unterschreiben und somit zu beurkunden ist.
+(4) Der Wahlleiter fertigt ein Wahlprotokoll Ã¼ber alle Wahlen der Versammlung an, das von ihm selbst zu unterschreiben und somit zu beurkunden ist.
 
-(5) Wird geheim gewählt, so wird der Versammlung nach Abschluss der Auszählung das vollständige Wahlergebnis durch den Wahlleiter mitgeteilt. Dieses besteht aus der Anzahl der Stimmberechtigten für diese Wahl, die Anzahl der ungültigen Stimmen und Enthaltungen und die auf jeden möglichen Abstimmungspunkt entfallenen Stimmen.
+(5) Wird geheim gewÃ¤hlt, so wird der Versammlung nach Abschluss der AuszÃ¤hlung das vollstÃ¤ndige Wahlergebnis durch den Wahlleiter mitgeteilt. Dieses besteht aus der Anzahl der Stimmberechtigten fÃ¼r diese Wahl, die Anzahl der ungÃ¼ltigen Stimmen und Enthaltungen und die auf jeden mÃ¶glichen Abstimmungspunkt entfallenen Stimmen.
 
-(6) Alle Piraten, insbesondere jedoch die Wahlhelfer, sind verpflichtet, Vorkommnisse, die die Rechtmäßigkeit der Wahl in Frage stellen, sofort dem Wahlleiter bekannt zu machen, der unverzüglich die Versammlung darüber in Kenntnis zu setzen hat.
+(6) Alle Piraten, insbesondere jedoch die Wahlhelfer, sind verpflichtet, Vorkommnisse, die die RechtmÃ¤ÃŸigkeit der Wahl in Frage stellen, sofort dem Wahlleiter bekannt zu machen, der unverzÃ¼glich die Versammlung darÃ¼ber in Kenntnis zu setzen hat.
 
-(7) Eine Abwahl __*{GO-Antrag auf Abwahl des Wahlleiters, Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschließend ein neuer Wahlleiter gewählt.
+(7) Eine Abwahl __*{GO-Antrag auf Abwahl des Wahlleiters, Antragsstellung vor Beginn eines Tagesordnungspunktes}*__ muss mit mehr Ja- als Nein-Stimmen erfolgen. Es wird anschlieÃŸend ein neuer Wahlleiter gewÃ¤hlt.
 
-## §6 Protokollführung
+## Â§6 ProtokollfÃ¼hrung
 
-(1) Die Protokollführung ist verantwortlich für das Erstellen eines schriftlichen Protokolls der Versammlung.
+(1) Die ProtokollfÃ¼hrung ist verantwortlich fÃ¼r das Erstellen eines schriftlichen Protokolls der Versammlung.
 
-(2) Das Protokoll der Versammlung enthält mindestens
+(2) Das Protokoll der Versammlung enthÃ¤lt mindestens
 
 * jeden Wechsel in der Versammlungsleitung,
 
-* gestellte Anträge im Wortlaut,
+* gestellte AntrÃ¤ge im Wortlaut,
 
 * Feststellungen der Versammlungsleitung,
 
-* Ergebnisse aller Abstimmungen über die Anträge,
+* Ergebnisse aller Abstimmungen Ã¼ber die AntrÃ¤ge,
 
 * das Wahlprotokoll (falls Wahlen stattfinden).
 
 (3) Es wird durch Unterschrift eines Versammlungsleiters, des Wahlleiters und des am Ende der Versammlung amtierenden Vorstandsvorsitzenden oder dessen Stellvertreters beurkundet.
 
-(4) Es ist den Piraten (im Sinne der Satzung) durch Veröffentlichung auf üblichen Kommunikationswegen unverzüglich zugänglich zu machen.
+(4) Es ist den Piraten (im Sinne der Satzung) durch VerÃ¶ffentlichung auf Ã¼blichen Kommunikationswegen unverzÃ¼glich zugÃ¤nglich zu machen.
 
-# §7 Kandidaturen und Wahlen
+# Â§7 Kandidaturen und Wahlen
 
-## §8 Kandidaturen
+## Â§8 Kandidaturen
 
-(1) Für die Wahlen kann sich jeder Pirat aufstellen oder aufstellen lassen, sofern dem nicht Gesetze, die Satzung oder verhängte Ordnungsmaßnahmen entgegenstehen. Jeder kann einen Piraten zur Kandidatur vorschlagen.
+(1) FÃ¼r die Wahlen kann sich jeder Pirat aufstellen oder aufstellen lassen, sofern dem nicht Gesetze, die Satzung oder verhÃ¤ngte OrdnungsmaÃŸnahmen entgegenstehen. Jeder kann einen Piraten zur Kandidatur vorschlagen.
 
 (2) Der Wahlleiter ruft vor der Wahl zur Kandidatenaufstellung auf und gibt den Kandidaten Zeit, sich zu melden.
 
-(3) Vor der Schließung der Kandidatenaufstellung ist diese vom Wahlleiter bekannt zu geben. Daraufhin ist ein letzter Aufruf zu starten. Meldet sich innerhalb angemessener Zeit kein neuer Kandidat, so wird die Liste geschlossen.
+(3) Vor der SchlieÃŸung der Kandidatenaufstellung ist diese vom Wahlleiter bekannt zu geben. Daraufhin ist ein letzter Aufruf zu starten. Meldet sich innerhalb angemessener Zeit kein neuer Kandidat, so wird die Liste geschlossen.
 
-(4) Wurde die Kandidatenliste geschlossen, so kann sich für den folgenden Wahlgang niemand mehr aufstellen.
+(4) Wurde die Kandidatenliste geschlossen, so kann sich fÃ¼r den folgenden Wahlgang niemand mehr aufstellen.
 
-## §9 Vorstellung der Kandidaten
+## Â§9 Vorstellung der Kandidaten
 
-(1) Die Versammlung entscheidet über die Rede- und Befragungszeit der Kandidaten, die jeweils zwischen 3 und 10 Minuten liegen darf.
+(1) Die Versammlung entscheidet Ã¼ber die Rede- und Befragungszeit der Kandidaten, die jeweils zwischen 3 und 10 Minuten liegen darf.
 
-(2) Jeder Kandidat erhält die von der Versammlung vorgegebene Zeit, um sich vorzustellen. Die Kandidaten stellen sich in alphabetischer Reihenfolge vor.
+(2) Jeder Kandidat erhÃ¤lt die von der Versammlung vorgegebene Zeit, um sich vorzustellen. Die Kandidaten stellen sich in alphabetischer Reihenfolge vor.
 
-(3) Nach Ende der Vorstellung aller Kandidaten werden jedem Kandidaten in der vereinbarten Befragungszeit Fragen gestellt. Eine einmalige Verlängerung der Befragung ist nach Abstimmung möglich.
+(3) Nach Ende der Vorstellung aller Kandidaten werden jedem Kandidaten in der vereinbarten Befragungszeit Fragen gestellt. Eine einmalige VerlÃ¤ngerung der Befragung ist nach Abstimmung mÃ¶glich.
 
-(4) Sollte ein Kandidat bereits auf der Versammlung für ein anderes Amt kandidiert haben, kann dieser sich 2 Minuten vorstellen, eine Befragung findet nicht statt.
+(4) Sollte ein Kandidat bereits auf der Versammlung fÃ¼r ein anderes Amt kandidiert haben, kann dieser sich 2 Minuten vorstellen, eine Befragung findet nicht statt.
 
-(5) Der Versammlungsleitung steht es zu, Fragen nicht zuzulassen. Sie muss die Nichtzulassung begründen.
+(5) Der Versammlungsleitung steht es zu, Fragen nicht zuzulassen. Sie muss die Nichtzulassung begrÃ¼nden.
 
-## §10 Wahlen
+## Â§10 Wahlen
 
-(1) Die Wahlen der Vorstandsmitglieder und des Schiedsgerichts sind geheim. Andere Wahlen finden grundsätzlich offen statt.
+(1) Die Wahlen der Vorstandsmitglieder und des Schiedsgerichts sind geheim. Andere Wahlen finden grundsÃ¤tzlich offen statt.
 
-(2) Auf Verlangen wird eine Wahl geheim durchgeführt. __*{GO-Antrag auf geheime Wahl, Antragsstellung vor einer Wahl}*__
+(2) Auf Verlangen wird eine Wahl geheim durchgefÃ¼hrt. __*{GO-Antrag auf geheime Wahl, Antragsstellung vor einer Wahl}*__
 
-(3) Gibt es nur einen Kandidaten, so wird mit "Ja" oder "Nein" abgestimmt. Der Kandidat ist gewählt, falls mehr Ja- als Nein-Stimmen abgegeben wurden. Bei Ablehnung des Kandidaten wird ein weiterer Wahlgang gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+(3) Gibt es nur einen Kandidaten, so wird mit "Ja" oder "Nein" abgestimmt. Der Kandidat ist gewÃ¤hlt, falls mehr Ja- als Nein-Stimmen abgegeben wurden. Bei Ablehnung des Kandidaten wird ein weiterer Wahlgang gemÃ¤ÃŸ Â§8 Kandidaturen Absatz 2 durchgefÃ¼hrt.
 
-(4) Gibt es mehrere Kandidaten, findet eine Wahl durch Zustimmung statt. Gewählt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhält. Erhält kein Kandidat die absolute Mehrheit wird zwischen den Kandidaten, deren Stimmzahl den zwei höchsten Stimmzahlen entspricht, eine Wahl durch Zustimmung durchgeführt. Gewählt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhält. Bei Ablehnung aller Kandidaten wird ein weiterer Wahlgang gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+(4) Gibt es mehrere Kandidaten, findet eine Wahl durch Zustimmung statt. GewÃ¤hlt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhÃ¤lt. ErhÃ¤lt kein Kandidat die absolute Mehrheit wird zwischen den Kandidaten, deren Stimmzahl den zwei hÃ¶chsten Stimmzahlen entspricht, eine Wahl durch Zustimmung durchgefÃ¼hrt. GewÃ¤hlt ist der Kandidat, welcher die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhÃ¤lt. Bei Ablehnung aller Kandidaten wird ein weiterer Wahlgang gemÃ¤ÃŸ Â§8 Kandidaturen Absatz 2 durchgefÃ¼hrt.
 
-(5) Gibt es mehrere Kandidaten für mehrere Ämter gleicher Bezeichnung, findet eine Wahl durch Zustimmung statt. Gewählt sind die Kandidaten, welche die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhalten, bis die zu besetzende Zahl der Ämter erreicht ist. Erhalten nicht genug Kandidaten die absolute Mehrheit wird ein weiterer Wahlgang für die verbliebenen Ämter gemäß §8 Kandidaturen Absatz 2 durchgeführt.
+(5) Gibt es mehrere Kandidaten fÃ¼r mehrere Ã„mter gleicher Bezeichnung, findet eine Wahl durch Zustimmung statt. GewÃ¤hlt sind die Kandidaten, welche die meisten Stimmen und eine absolute Mehrheit der sich nicht enthaltenden Abstimmenden erhalten, bis die zu besetzende Zahl der Ã„mter erreicht ist. Erhalten nicht genug Kandidaten die absolute Mehrheit wird ein weiterer Wahlgang fÃ¼r die verbliebenen Ã„mter gemÃ¤ÃŸ Â§8 Kandidaturen Absatz 2 durchgefÃ¼hrt.
 
-(6) Sollten mehrere Kandidaten mit absoluter Mehrheit und mit gleicher Stimmzahl, aber nicht mehr ausreichend zu vergebende Ämter vorhanden sein, findet zwischen diesen Kandidaten eine Stichwahl statt, bei der der Kandidat mit den meisten Stimmen gewählt ist. Kommt es bei dieser Stichwahl zu einem Gleichstand, entscheidet das Los.
+(6) Sollten mehrere Kandidaten mit absoluter Mehrheit und mit gleicher Stimmzahl, aber nicht mehr ausreichend zu vergebende Ã„mter vorhanden sein, findet zwischen diesen Kandidaten eine Stichwahl statt, bei der der Kandidat mit den meisten Stimmen gewÃ¤hlt ist. Kommt es bei dieser Stichwahl zu einem Gleichstand, entscheidet das Los.
 
-(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{GO-Antrag auf Änderung der Reihenfolge der Wahlgänge, Antragsstellung vor einem Wahlgang}*__
+(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{GO-Antrag auf Ã„nderung der Reihenfolge der WahlgÃ¤nge, Antragsstellung vor einem Wahlgang}*__
 
-# §11 Anträge
+# Â§11 AntrÃ¤ge
 
-## §12 Abstimmungen über Anträge
+## Â§12 Abstimmungen Ã¼ber AntrÃ¤ge
 
-(1) Gibt es zwei oder mehr Anträge, die sich gegenseitig ausschließen, so wird zusätzlich darüber abgestimmt, ob keiner dieser Anträge angenommen werden soll. Der Antrag mit der größten Zustimmung und der nach Gesetz, Satzung oder dieser Geschäftsordnung geforderten Mehrheit gilt als angenommen, wobei jeder Pirat beliebig vielen Anträgen zustimmen kann. Erreicht der Antrag mit der größten Zustimmung keine eindeutige geforderte Mehrheit, so wird dieser erneut abgestimmt.
+(1) Gibt es zwei oder mehr AntrÃ¤ge, die sich gegenseitig ausschlieÃŸen, so wird zusÃ¤tzlich darÃ¼ber abgestimmt, ob keiner dieser AntrÃ¤ge angenommen werden soll. Der Antrag mit der grÃ¶ÃŸten Zustimmung und der nach Gesetz, Satzung oder dieser GeschÃ¤ftsordnung geforderten Mehrheit gilt als angenommen, wobei jeder Pirat beliebig vielen AntrÃ¤gen zustimmen kann. Erreicht der Antrag mit der grÃ¶ÃŸten Zustimmung keine eindeutige geforderte Mehrheit, so wird dieser erneut abgestimmt.
 
-(2) Steht nur ein Antrag zur Abstimmung, so muss dieser die gegebenenfalls durch diese Geschäftsordnung, die Satzung oder ein Gesetz geforderte Mehrheit erreichen.
+(2) Steht nur ein Antrag zur Abstimmung, so muss dieser die gegebenenfalls durch diese GeschÃ¤ftsordnung, die Satzung oder ein Gesetz geforderte Mehrheit erreichen.
 
-(3) Die Mehrheitsverhältnisse werden grundsätzlich nach Augenmaß des Versammlungsleiters festgestellt, bei unklaren Verhältnissen oder auf Antrag der Versammlung erfolgt eine genaue Auszählung. __*{GO-Antrag auf Auszählung einer Abstimmung, Antragsstellung nach einer Abstimmung}*__
+(3) Die MehrheitsverhÃ¤ltnisse werden grundsÃ¤tzlich nach AugenmaÃŸ des Versammlungsleiters festgestellt, bei unklaren VerhÃ¤ltnissen oder auf Antrag der Versammlung erfolgt eine genaue AuszÃ¤hlung. __*{GO-Antrag auf AuszÃ¤hlung einer Abstimmung, Antragsstellung nach einer Abstimmung}*__
 
-(4) Alle Abstimmungen oder Beschlüsse finden mit einfacher Mehrheit (Zustimmung bei mehr als der Hälfte der abgegebenen Stimmen) und grundsätzlich öffentlich, durch Zeigen der Stimmkarte statt, sofern nicht die Satzung, die Geschäftsordnung oder ein Gesetz etwas anderes bestimmt.
+(4) Alle Abstimmungen oder BeschlÃ¼sse finden mit einfacher Mehrheit (Zustimmung bei mehr als der HÃ¤lfte der abgegebenen Stimmen) und grundsÃ¤tzlich Ã¶ffentlich, durch Zeigen der Stimmkarte statt, sofern nicht die Satzung, die GeschÃ¤ftsordnung oder ein Gesetz etwas anderes bestimmt.
 
-(5) Auf Verlangen wird eine Abstimmung geheim durchgeführt. __*{GO-Antrag auf geheime Abstimmung, Antragsstellung vor einer Abstimmung}*__
+(5) Auf Verlangen wird eine Abstimmung geheim durchgefÃ¼hrt. __*{GO-Antrag auf geheime Abstimmung, Antragsstellung vor einer Abstimmung}*__
 
-(6) Abweichend hiervon wird über Geschäftsordnungsanträge immer öffentlich abgestimmt.
+(6) Abweichend hiervon wird Ã¼ber GeschÃ¤ftsordnungsantrÃ¤ge immer Ã¶ffentlich abgestimmt.
 
-## §13 Anträge an die Versammlung
+## Â§13 AntrÃ¤ge an die Versammlung
 
-(1) Zu Beginn der Beratung eines neuen Antrags hat der Antragsteller eines jeden aufgerufenen Antrags das Recht, seinen Antrag in kompakter Rede vorzustellen (Antragsbegründung). Anschließend folgt die Aussprache. Die Reihenfolge der Wortbeiträge in der Aussprache wird von der Versammlungsleitung festgelegt.
+(1) Zu Beginn der Beratung eines neuen Antrags hat der Antragsteller eines jeden aufgerufenen Antrags das Recht, seinen Antrag in kompakter Rede vorzustellen (AntragsbegrÃ¼ndung). AnschlieÃŸend folgt die Aussprache. Die Reihenfolge der WortbeitrÃ¤ge in der Aussprache wird von der Versammlungsleitung festgelegt.
 
-(2) Wortbeiträge müssen sich auf den Antragsgegenstand beziehen und haben kompakt und frei von Wiederholungen zu sein.
+(2) WortbeitrÃ¤ge mÃ¼ssen sich auf den Antragsgegenstand beziehen und haben kompakt und frei von Wiederholungen zu sein.
 
-(3) Die Versammlung kann die Liste der Wortmeldungen schließen __*{GO-Antrag auf Schließung der Redeliste, Antragstellung außerhalb eines Redebeitrags}*__ und Redezeiten begrenzen __*{GO-Antrag auf Begrenzung der Redezeit, Antragstellung außerhalb eines Redebeitrags}*__.
+(3) Die Versammlung kann die Liste der Wortmeldungen schlieÃŸen __*{GO-Antrag auf SchlieÃŸung der Redeliste, Antragstellung auÃŸerhalb eines Redebeitrags}*__ und Redezeiten begrenzen __*{GO-Antrag auf Begrenzung der Redezeit, Antragstellung auÃŸerhalb eines Redebeitrags}*__.
 
-(4) Wenn mehrere Anträge als Block abgestimmt werden und der Block abgelehnt wird, dann wird noch einmal darüber abgestimmt, ob die Anträge in dem Block noch einmal einzeln behandelt werden sollen.
+(4) Wenn mehrere AntrÃ¤ge als Block abgestimmt werden und der Block abgelehnt wird, dann wird noch einmal darÃ¼ber abgestimmt, ob die AntrÃ¤ge in dem Block noch einmal einzeln behandelt werden sollen.
 
-## §14 Anträge auf Änderung der Satzung
+## Â§14 AntrÃ¤ge auf Ã„nderung der Satzung
 
-(1) Es gelten die Regelungen aus §13 Anträge an die Versammlung entsprechend.
+(1) Es gelten die Regelungen aus Â§13 AntrÃ¤ge an die Versammlung entsprechend.
 
-(2) Bei Abstimmungen über die Änderung der Satzung sind doppelt so viele Ja- wie Nein-Stimmen erforderlich (Zwei-Drittel-Mehrheit).
+(2) Bei Abstimmungen Ã¼ber die Ã„nderung der Satzung sind doppelt so viele Ja- wie Nein-Stimmen erforderlich (Zwei-Drittel-Mehrheit).
 
-## §15 Anträge auf Änderung des Programms
+## Â§15 AntrÃ¤ge auf Ã„nderung des Programms
 
-(1) Es gelten die Regelungen aus §13 Anträge an die Versammlung entsprechend.
+(1) Es gelten die Regelungen aus Â§13 AntrÃ¤ge an die Versammlung entsprechend.
 
-(2) Bei Abstimmungen über die Änderung des Parteiprogramms sind doppelt so viele Ja- wie Nein-Stimmen erforderlich (Zwei-Drittel-Mehrheit).
+(2) Bei Abstimmungen Ã¼ber die Ã„nderung des Parteiprogramms sind doppelt so viele Ja- wie Nein-Stimmen erforderlich (Zwei-Drittel-Mehrheit).
 
-## §16 Anträge zur Geschäftsordnung
+## Â§16 AntrÃ¤ge zur GeschÃ¤ftsordnung
 
-(1) Es sind nur die in §17ff Geschäftsordnungsanträge benannten Geschäftsordnungsanträge zulässig.
+(1) Es sind nur die in Â§17ff GeschÃ¤ftsordnungsantrÃ¤ge benannten GeschÃ¤ftsordnungsantrÃ¤ge zulÃ¤ssig.
 
-(2) Insofern in dieser Geschäftsordnung nicht anders geregelt, kann jeder Pirat jederzeit einen zulässigen GO-Antrag stellen, indem er beide Hände hebt und sich an das dafür vorgesehene Saalmikrofon begibt. Die Wortmeldung zu einem GO-Antrag hat Vorrang vor anderen Wortmeldungen. Sie unterbricht weder einen laufenden Wortbeitrag noch eine eröffnete Wahl (also ab Beginn der vom Wahlleiters eröffneten Stimmabgabe bis zu deren Ende) oder Abstimmung.
+(2) Insofern in dieser GeschÃ¤ftsordnung nicht anders geregelt, kann jeder Pirat jederzeit einen zulÃ¤ssigen GO-Antrag stellen, indem er beide HÃ¤nde hebt und sich an das dafÃ¼r vorgesehene Saalmikrofon begibt. Die Wortmeldung zu einem GO-Antrag hat Vorrang vor anderen Wortmeldungen. Sie unterbricht weder einen laufenden Wortbeitrag noch eine erÃ¶ffnete Wahl (also ab Beginn der vom Wahlleiters erÃ¶ffneten Stimmabgabe bis zu deren Ende) oder Abstimmung.
 
-(3) Versucht ein Teilnehmer, einen nicht zulässigen GO-Antrag oder einen GO-Antrag in einer nicht zulässigen Form zu stellen, entzieht ihm der Versammlungsleiter unverzüglich das Wort.
+(3) Versucht ein Teilnehmer, einen nicht zulÃ¤ssigen GO-Antrag oder einen GO-Antrag in einer nicht zulÃ¤ssigen Form zu stellen, entzieht ihm der Versammlungsleiter unverzÃ¼glich das Wort.
 
-(4) Um Missverständnisse zu vermeiden, kann die Versammlungsleitung bei GO-Anträgen verlangen, dass diese als Text bei der Versammlungsleitung eingereicht werden.
+(4) Um MissverstÃ¤ndnisse zu vermeiden, kann die Versammlungsleitung bei GO-AntrÃ¤gen verlangen, dass diese als Text bei der Versammlungsleitung eingereicht werden.
 
-(5) Wurde ein GO-Antrag gestellt, so kann jeder Pirat entsprechend Absatz 2 einen GO-Alternativantrag stellen __*{GO-Alternativantrag, Antragsstellung direkt nach einem GO-Antrag bzw. Alternativantrag}*__. Andere Anträge sind bis zum Beschluss über den Antrag oder dessen Rückzug nicht zulässig.
+(5) Wurde ein GO-Antrag gestellt, so kann jeder Pirat entsprechend Absatz 2 einen GO-Alternativantrag stellen __*{GO-Alternativantrag, Antragsstellung direkt nach einem GO-Antrag bzw. Alternativantrag}*__. Andere AntrÃ¤ge sind bis zum Beschluss Ã¼ber den Antrag oder dessen RÃ¼ckzug nicht zulÃ¤ssig.
 
-(6) Unterbleibt eine begründete Gegenrede oder wurde kein Alternativantrag gestellt, so erfolgt eine automatische formelle Gegenrede. Gibt es eine begründete oder formale Gegenrede oder gibt es mindestens einen Alternativantrag, so wird über den Antrag bzw. die Anträge abgestimmt. Im letzteren Fall gilt §12 Abstimmungen über Anträge Absatz 1 entsprechend.
+(6) Unterbleibt eine begrÃ¼ndete Gegenrede oder wurde kein Alternativantrag gestellt, so erfolgt eine automatische formelle Gegenrede. Gibt es eine begrÃ¼ndete oder formale Gegenrede oder gibt es mindestens einen Alternativantrag, so wird Ã¼ber den Antrag bzw. die AntrÃ¤ge abgestimmt. Im letzteren Fall gilt Â§12 Abstimmungen Ã¼ber AntrÃ¤ge Absatz 1 entsprechend.
 
-# §17 Geschäftsordnungsanträge
+# Â§17 GeschÃ¤ftsordnungsantrÃ¤ge
 
-## §18 (gestrichen)
+## Â§18 (gestrichen)
 
-## §19 Abwahl eines Versammlungsleiters
+## Â§19 Abwahl eines Versammlungsleiters
 
 (1) Ein GO-Antrag auf Abwahl des Versammlungsleiters kann nur vor Beginn eines Tagesordnungspunktes gestellt werden.
 
-## §20 Abwahl des Wahlleiters
+## Â§20 Abwahl des Wahlleiters
 
 (1) Ein GO-Antrag auf Abwahl des Wahlleiters kann nur vor Beginn eines Tagesordnungspunktes gestellt werden.
 
-## §21 Ablehnung eines Wahlhelfers
+## Â§21 Ablehnung eines Wahlhelfers
 
 (1) Der Antrag ist vor einer Wahl oder zu Beginne eines Tagesordnungspunktes Punktes zu stellen.
 
-(2) Der Wahlhelfer ist namentlich zu benennen und der Antrag zu begründen.
+(2) Der Wahlhelfer ist namentlich zu benennen und der Antrag zu begrÃ¼nden.
 
-(3) Dem Wahlhelfer ist das Recht einzuräumen, sich angemessen zu verteidigen.
+(3) Dem Wahlhelfer ist das Recht einzurÃ¤umen, sich angemessen zu verteidigen.
 
-## §22 Geheime Wahl
+## Â§22 Geheime Wahl
 
 (1) Der Antrag ist vor einer geheimen Wahl zu stellen.
 
 (2) Ein GO-Antrag auf geheime Wahl ist ohne Abstimmung angenommen.
 
-## §23 Geheime Abstimmung
+## Â§23 Geheime Abstimmung
 
 (1) Der Antrag ist vor einer geheimen Abstimmung zu stellen.
 
 (2) Ein GO-Antrag auf geheime Abstimmung ist angenommen, wenn mindestens 5 Piraten zustimmen.
 
-## §24 Wiederholung der Wahl/Abstimmung
+## Â§24 Wiederholung der Wahl/Abstimmung
 
 (1) Der Antrag ist nach einer Wahl bzw. einer Abstimmung zu stellen.
 
-(2) Mit einem GO-Antrag auf Wiederholung der Wahl/Abstimmung kann die Wiederholung der vorangegangen Wahl oder Abstimmung beantragt werden. Der Antrag ist zu begründen.
+(2) Mit einem GO-Antrag auf Wiederholung der Wahl/Abstimmung kann die Wiederholung der vorangegangen Wahl oder Abstimmung beantragt werden. Der Antrag ist zu begrÃ¼nden.
 
-## §25 Auszählung einer Abstimmung
+## Â§25 AuszÃ¤hlung einer Abstimmung
 
 (1) Der Antrag ist nach einer Abstimmung zu stellen.
 
-(2) Ein GO-Antrag auf Auszählung einer Abstimmung, ist angenommen, wenn mindestens 5 Piraten zustimmen.
+(2) Ein GO-Antrag auf AuszÃ¤hlung einer Abstimmung, ist angenommen, wenn mindestens 5 Piraten zustimmen.
 
-## §26 Änderung der Reihenfolge der Wahlgänge
+## Â§26 Ã„nderung der Reihenfolge der WahlgÃ¤nge
 
 (1) Der Antrag ist vor einer Wahl zu stellen.
 
-(2) Die Versammlung kann mit einem GO-Antrag auf Änderung der Reihenfolge der Wahlgänge eine abweichende Reihenfolge der Wahlgänge bestimmen.
+(2) Die Versammlung kann mit einem GO-Antrag auf Ã„nderung der Reihenfolge der WahlgÃ¤nge eine abweichende Reihenfolge der WahlgÃ¤nge bestimmen.
 
-## §27 GO-Alternativantrag
+## Â§27 GO-Alternativantrag
 
 (1) Der Antrag ist nach einem GO-Antrag zu stellen.
 
-(2) Es kann jeder Pirat einen GO-Alternativantrag stellen. Andere Anträge sind bis zum Beschluss über den Antrag oder dessen Rückzug nicht zulässig.
+(2) Es kann jeder Pirat einen GO-Alternativantrag stellen. Andere AntrÃ¤ge sind bis zum Beschluss Ã¼ber den Antrag oder dessen RÃ¼ckzug nicht zulÃ¤ssig.
 
-## §28 Schließung der Redeliste
+## Â§28 SchlieÃŸung der Redeliste
 
 (1) Der Antrag ist nach jedem Redebeitrag zu stellen.
 
-(2) Wurde ein GO-Antrag auf Schließung der Redeliste angenommen, so müssen sich alle Redner unverzüglich melden.
+(2) Wurde ein GO-Antrag auf SchlieÃŸung der Redeliste angenommen, so mÃ¼ssen sich alle Redner unverzÃ¼glich melden.
 
-(3) Der GO-Antrag auf Schließung der Redeliste ist nicht zulässig, wenn er von einem Piraten gestellt wurde der bereits eine Rede in der aktuellen Debatte gehalten hat oder selbst in die Redeliste eingereiht ist.
+(3) Der GO-Antrag auf SchlieÃŸung der Redeliste ist nicht zulÃ¤ssig, wenn er von einem Piraten gestellt wurde der bereits eine Rede in der aktuellen Debatte gehalten hat oder selbst in die Redeliste eingereiht ist.
 
-(4) Über einen GO-Antrag zur Schließung der Redeliste wird auch ohne formale Gegenrede abgestimmt, eine begründete Gegenrede ist weiterhin zulässig.
+(4) Ãœber einen GO-Antrag zur SchlieÃŸung der Redeliste wird auch ohne formale Gegenrede abgestimmt, eine begrÃ¼ndete Gegenrede ist weiterhin zulÃ¤ssig.
 
-## §29 Wiedereröffnung der Redeliste
+## Â§29 WiedererÃ¶ffnung der Redeliste
 
 (1) Der Antrag ist bei einer geschlossenen Redeliste nach jedem Redebeitrag zu stellen.
 
-(2) Jeder Pirat kann einen begründeten GO-Antrag auf Wiedereröffnung der Redeliste stellen.
+(2) Jeder Pirat kann einen begrÃ¼ndeten GO-Antrag auf WiedererÃ¶ffnung der Redeliste stellen.
 
-(3) Ein GO-Antrag auf Wiedereröffnung der Redeliste wird erst abgestimmt, sobald alle Redner auf der geschlossenen Redeliste an der Reihe waren.
+(3) Ein GO-Antrag auf WiedererÃ¶ffnung der Redeliste wird erst abgestimmt, sobald alle Redner auf der geschlossenen Redeliste an der Reihe waren.
 
-(4) Wurde ein GO-Antrag auf Wiedereröffnung der Redeliste angenommen, so wird die Redeliste für einen kurzen Moment wiedereröffnet. Alle Redner müssen sich unverzüglich melden. Die Redeliste gilt danach wieder als geschlossen.
+(4) Wurde ein GO-Antrag auf WiedererÃ¶ffnung der Redeliste angenommen, so wird die Redeliste fÃ¼r einen kurzen Moment wiedererÃ¶ffnet. Alle Redner mÃ¼ssen sich unverzÃ¼glich melden. Die Redeliste gilt danach wieder als geschlossen.
 
-## §30 Begrenzung der Redezeit
+## Â§30 Begrenzung der Redezeit
 
-(1) Die Redezeit von Redebeiträgen beträgt standardmäßig 2 Minuten. Ein Antrag auf eine davon abweichende Redezeit kann nach jedem Tagesordnungsunterpunkt, vor der Eröffnung der Redeliste und nach jedem Redebeitrag gestellt werden.
+(1) Die Redezeit von RedebeitrÃ¤gen betrÃ¤gt standardmÃ¤ÃŸig 2 Minuten. Ein Antrag auf eine davon abweichende Redezeit kann nach jedem Tagesordnungsunterpunkt, vor der ErÃ¶ffnung der Redeliste und nach jedem Redebeitrag gestellt werden.
 
-(2) Ein GO-Antrag auf Begrenzung der Redezeit muss die gewünschte maximale Dauer (in Minuten) zukünftiger Redebeiträge innerhalb des aktuellen Tagesordnungspunktes enthalten.
+(2) Ein GO-Antrag auf Begrenzung der Redezeit muss die gewÃ¼nschte maximale Dauer (in Minuten) zukÃ¼nftiger RedebeitrÃ¤ge innerhalb des aktuellen Tagesordnungspunktes enthalten.
 
-(3) Der GO-Antrag auf Begrenzung der Redezeit ist nicht zulässig, wenn er von einem Piraten gestellt wird der bereits eine Rede in der aktuellen Debatte gehalten hat oder selbst in der Redeliste eingereiht ist.
+(3) Der GO-Antrag auf Begrenzung der Redezeit ist nicht zulÃ¤ssig, wenn er von einem Piraten gestellt wird der bereits eine Rede in der aktuellen Debatte gehalten hat oder selbst in der Redeliste eingereiht ist.
 
 (4) Die Redezeit darf nicht auf weniger als eine halbe Minute begrenzt werden.
 
-## §31 Einholung eines Meinungsbildes
+## Â§31 Einholung eines Meinungsbildes
 
-(1) Der Antrag ist vor jedem Tagesordnungsunterpunkt, vor der Eröffnung der Redeliste und nach jedem Redebeitrag zu stellen.
+(1) Der Antrag ist vor jedem Tagesordnungsunterpunkt, vor der ErÃ¶ffnung der Redeliste und nach jedem Redebeitrag zu stellen.
 
 (2) Ein GO-Antrag auf Einholung eines Meinungsbildes gilt ohne Abstimmung als angenommen.
 
 (3) Das Meinungsbild muss sich auf den derzeitigen Tagesordnungspunkt, den betreffenden Antrag, oder ein artverwandtes Thema beziehen.
 
-(4) Der Versammlungsleiter kann den Antrag ablehnen, muss die Ablehnung aber begründen.
+(4) Der Versammlungsleiter kann den Antrag ablehnen, muss die Ablehnung aber begrÃ¼nden.
 
-(5) Ein Meinungsbild wird (auch bei knappem Ergebnis) nicht ausgezählt.
+(5) Ein Meinungsbild wird (auch bei knappem Ergebnis) nicht ausgezÃ¤hlt.
 
-## §32 (gestrichen)
+## Â§32 (gestrichen)
 
-## §33 Unterbrechung der Sitzung
+## Â§33 Unterbrechung der Sitzung
 
 (1) Der Antrag ist vor jedem Tagesordnungsunterpunkt zu stellen.
 
 (2) Ein GO-Antrag auf Unterbrechung der Sitzung kann die Dauer der Unterbrechung beinhalten. Falls die Dauer nicht bestimmt ist, obliegt es dem Versammlungsleiter die Dauer zu bestimmen.
 
-## §34 Änderung der Tagesordnung
+## Â§34 Ã„nderung der Tagesordnung
 
 (1) Der Antrag ist vor jedem Tagesordnungsunterpunkt zu stellen.
 
-(2) Eine Änderung der Tagesordnung kann sein
+(2) Eine Ã„nderung der Tagesordnung kann sein
 
-* das Hinzufügen eines Punktes,
+* das HinzufÃ¼gen eines Punktes,
 
 * das Entfernen eines Punktes,
 
 * das Heraustrennen eines Punktes aus einem anderen Punkt der Tagesordnung,
 
-* das Ändern der Reihenfolge von Punkten. 
+* das Ã„ndern der Reihenfolge von Punkten. 
 
-(3) Ein GO-Antrag auf Änderung der Tagesordnung muss schriftlich bei der Versammlungsleitung von mindestens 5 akkreditierten Piraten gestellt werden.
+(3) Ein GO-Antrag auf Ã„nderung der Tagesordnung muss schriftlich bei der Versammlungsleitung von mindestens 5 akkreditierten Piraten gestellt werden.
 
-(4) Ein GO-Antrag auf Änderung der Tagesordnung muss sämtliche zur Änderung vorgesehenen Tagesordnungspunkte enthalten. Bei Hinzufügung, Verschiebung, Heraustrennung und der Änderung der Reihenfolge von Tagesordnungspunkten müssen eindeutige Angaben enthalten sein, wann die betreffenden Anträge behandelt werden sollen.
+(4) Ein GO-Antrag auf Ã„nderung der Tagesordnung muss sÃ¤mtliche zur Ã„nderung vorgesehenen Tagesordnungspunkte enthalten. Bei HinzufÃ¼gung, Verschiebung, Heraustrennung und der Ã„nderung der Reihenfolge von Tagesordnungspunkten mÃ¼ssen eindeutige Angaben enthalten sein, wann die betreffenden AntrÃ¤ge behandelt werden sollen.
 
-## §35 Änderung der Geschäftsordnung
+## Â§35 Ã„nderung der GeschÃ¤ftsordnung
 
 (1) Der Antrag ist vor jedem Tagesordnungsunterpunkt zu stellen.
 
-(2) Ein GO-Antrag auf Änderung der Geschäftsordnung muss schriftlich bei der Versammlungsleitung von mindestens 5 akkreditierten Piraten gestellt werden.
+(2) Ein GO-Antrag auf Ã„nderung der GeschÃ¤ftsordnung muss schriftlich bei der Versammlungsleitung von mindestens 5 akkreditierten Piraten gestellt werden.
 
-(3) Ein GO-Antrag auf Änderung der Geschäftsordnung muss eindeutig kenntlich machen, was an welcher Stelle in der Geschäftsordnung geändert werden soll. Ansonsten kann der Antrag aus formalen Gründen abgelehnt werden.
+(3) Ein GO-Antrag auf Ã„nderung der GeschÃ¤ftsordnung muss eindeutig kenntlich machen, was an welcher Stelle in der GeschÃ¤ftsordnung geÃ¤ndert werden soll. Ansonsten kann der Antrag aus formalen GrÃ¼nden abgelehnt werden.
