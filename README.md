@@ -127,7 +127,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (6) Sollten mehrere Kandidaten mit absoluter Mehrheit und mit gleicher Stimmzahl, aber nicht mehr ausreichend zu vergebende Ämter vorhanden sein, findet zwischen diesen Kandidaten eine Stichwahl statt, bei der der Kandidat mit den meisten Stimmen gewählt ist. Kommt es bei dieser Stichwahl zu einem Gleichstand, entscheidet das Los.
 
-(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{[GO-Antrag auf Änderung der Reihenfolge der Wahlgänge)(#§26-%C3%84nderung-der-reihenfolge-der-wahlg%C3%A4nge), Antragsstellung vor einem Wahlgang}*__
+(7) Der Wahlleiter bestimmt die Abstimmungsreihenfolge. Die Versammlung kann eine davon abweichende Reihenfolge bestimmen. __*{[GO-Antrag auf Änderung der Reihenfolge der Wahlgänge](#§26-%C3%84nderung-der-reihenfolge-der-wahlg%C3%A4nge), Antragsstellung vor einem Wahlgang}*__
 
 # §11 Anträge
 
@@ -151,7 +151,7 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 (2) Wortbeiträge müssen sich auf den Antragsgegenstand beziehen und haben kompakt und frei von Wiederholungen zu sein.
 
-(3) Die Versammlung kann die Liste der Wortmeldungen schließen __*{[GO-Antrag auf Schließung der Redeliste](#$28-schlie%C3%9Fung-der-redeliste), Antragstellung außerhalb eines Redebeitrags}*__ und Redezeiten begrenzen __*{[GO-Antrag auf Begrenzung der Redezeit](#§30-begrenzung-der-redezeit), Antragstellung außerhalb eines Redebeitrags}*__.
+(3) Die Versammlung kann die Liste der Wortmeldungen schließen __*{[GO-Antrag auf Schließung der Redeliste](#§28-schlie%C3%9Fung-der-redeliste), Antragstellung außerhalb eines Redebeitrags}*__ und Redezeiten begrenzen __*{[GO-Antrag auf Begrenzung der Redezeit](#§30-begrenzung-der-redezeit), Antragstellung außerhalb eines Redebeitrags}*__.
 
 (4) Wenn mehrere Anträge als Block abgestimmt werden und der Block abgelehnt wird, dann wird noch einmal darüber abgestimmt, ob die Anträge in dem Block noch einmal einzeln behandelt werden sollen.
 
