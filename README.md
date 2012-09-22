@@ -157,19 +157,19 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteit
 
 ## §14 Anträge auf Änderung der Satzung
 
-(1) Es gelten die Regelungen aus §13 Anträge an die Versammlung entsprechend.
+(1) Es gelten die Regelungen aus [§13 Anträge an die Versammlung](#§13-anträge-an-die-versammlung) entsprechend.
 
 (2) Bei Abstimmungen über die Änderung der Satzung sind doppelt so viele Ja- wie Nein-Stimmen erforderlich (Zwei-Drittel-Mehrheit).
 
 ## §15 Anträge auf Änderung des Programms
 
-(1) Es gelten die Regelungen aus §13 Anträge an die Versammlung entsprechend.
+(1) Es gelten die Regelungen aus [§13 Anträge an die Versammlung](#§13-anträge-an-die-versammlung) entsprechend.
 
 (2) Bei Abstimmungen über die Änderung des Parteiprogramms sind doppelt so viele Ja- wie Nein-Stimmen erforderlich (Zwei-Drittel-Mehrheit).
 
 ## §16 Anträge zur Geschäftsordnung
 
-(1) Es sind nur die in §17ff Geschäftsordnungsanträge benannten Geschäftsordnungsanträge zulässig.
+(1) Es sind nur die in [§17ff Geschäftsordnungsanträge](#§17-geschäftsordnungsanträge) benannten Geschäftsordnungsanträge zulässig.
 
 (2) Insofern in dieser Geschäftsordnung nicht anders geregelt, kann jeder Pirat jederzeit einen zulässigen GO-Antrag stellen, indem er beide Hände hebt und sich an das dafür vorgesehene Saalmikrofon begibt. Die Wortmeldung zu einem GO-Antrag hat Vorrang vor anderen Wortmeldungen. Sie unterbricht weder einen laufenden Wortbeitrag noch eine eröffnete Wahl (also ab Beginn der vom Wahlleiters eröffneten Stimmabgabe bis zu deren Ende) oder Abstimmung.
 
