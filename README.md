@@ -180,3 +180,135 @@ Landesparteitags Wahl- und Geschäftsordnung verabschiedet auf dem Landesparteita
 (5) Wurde ein GO-Antrag gestellt, so kann jeder Pirat entsprechend Absatz 2 einen GO-Alternativantrag stellen __*{GO-Alternativantrag, Antragsstellung direkt nach einem GO-Antrag bzw. Alternativantrag}*__. Andere Anträge sind bis zum Beschluss über den Antrag oder dessen Rückzug nicht zulässig.
 
 (6) Unterbleibt eine begründete Gegenrede oder wurde kein Alternativantrag gestellt, so erfolgt eine automatische formelle Gegenrede. Gibt es eine begründete oder formale Gegenrede oder gibt es mindestens einen Alternativantrag, so wird über den Antrag bzw. die Anträge abgestimmt. Im letzteren Fall gilt §12 Abstimmungen über Anträge Absatz 1 entsprechend.
+
+# §17 Geschäftsordnungsanträge
+
+## §18 (gestrichen)
+
+## §19 Abwahl eines Versammlungsleiters
+
+(1) Ein GO-Antrag auf Abwahl des Versammlungsleiters kann nur vor Beginn eines Tagesordnungspunktes gestellt werden.
+
+## §20 Abwahl des Wahlleiters
+
+(1) Ein GO-Antrag auf Abwahl des Wahlleiters kann nur vor Beginn eines Tagesordnungspunktes gestellt werden.
+
+## §21 Ablehnung eines Wahlhelfers
+
+(1) Der Antrag ist vor einer Wahl oder zu Beginne eines Tagesordnungspunktes Punktes zu stellen.
+
+(2) Der Wahlhelfer ist namentlich zu benennen und der Antrag zu begründen.
+
+(3) Dem Wahlhelfer ist das Recht einzuräumen, sich angemessen zu verteidigen.
+
+## §22 Geheime Wahl
+
+(1) Der Antrag ist vor einer geheimen Wahl zu stellen.
+
+(2) Ein GO-Antrag auf geheime Wahl ist ohne Abstimmung angenommen.
+
+## §23 Geheime Abstimmung
+
+(1) Der Antrag ist vor einer geheimen Abstimmung zu stellen.
+
+(2) Ein GO-Antrag auf geheime Abstimmung ist angenommen, wenn mindestens 5 Piraten zustimmen.
+
+## §24 Wiederholung der Wahl/Abstimmung
+
+(1) Der Antrag ist nach einer Wahl bzw. einer Abstimmung zu stellen.
+
+(2) Mit einem GO-Antrag auf Wiederholung der Wahl/Abstimmung kann die Wiederholung der vorangegangen Wahl oder Abstimmung beantragt werden. Der Antrag ist zu begründen.
+
+## §25 Auszählung einer Abstimmung
+
+(1) Der Antrag ist nach einer Abstimmung zu stellen.
+
+(2) Ein GO-Antrag auf Auszählung einer Abstimmung, ist angenommen, wenn mindestens 5 Piraten zustimmen.
+
+## §26 Änderung der Reihenfolge der Wahlgänge
+
+(1) Der Antrag ist vor einer Wahl zu stellen.
+
+(2) Die Versammlung kann mit einem GO-Antrag auf Änderung der Reihenfolge der Wahlgänge eine abweichende Reihenfolge der Wahlgänge bestimmen.
+
+## §27 GO-Alternativantrag
+
+(1) Der Antrag ist nach einem GO-Antrag zu stellen.
+
+(2) Es kann jeder Pirat einen GO-Alternativantrag stellen. Andere Anträge sind bis zum Beschluss über den Antrag oder dessen Rückzug nicht zulässig.
+
+## §28 Schließung der Redeliste
+
+(1) Der Antrag ist nach jedem Redebeitrag zu stellen.
+
+(2) Wurde ein GO-Antrag auf Schließung der Redeliste angenommen, so müssen sich alle Redner unverzüglich melden.
+
+(3) Der GO-Antrag auf Schließung der Redeliste ist nicht zulässig, wenn er von einem Piraten gestellt wurde der bereits eine Rede in der aktuellen Debatte gehalten hat oder selbst in die Redeliste eingereiht ist.
+
+(4) Über einen GO-Antrag zur Schließung der Redeliste wird auch ohne formale Gegenrede abgestimmt, eine begründete Gegenrede ist weiterhin zulässig.
+
+## §29 Wiedereröffnung der Redeliste
+
+(1) Der Antrag ist bei einer geschlossenen Redeliste nach jedem Redebeitrag zu stellen.
+
+(2) Jeder Pirat kann einen begründeten GO-Antrag auf Wiedereröffnung der Redeliste stellen.
+
+(3) Ein GO-Antrag auf Wiedereröffnung der Redeliste wird erst abgestimmt, sobald alle Redner auf der geschlossenen Redeliste an der Reihe waren.
+
+(4) Wurde ein GO-Antrag auf Wiedereröffnung der Redeliste angenommen, so wird die Redeliste für einen kurzen Moment wiedereröffnet. Alle Redner müssen sich unverzüglich melden. Die Redeliste gilt danach wieder als geschlossen.
+
+## §30 Begrenzung der Redezeit
+
+(1) Die Redezeit von Redebeiträgen beträgt standardmäßig 2 Minuten. Ein Antrag auf eine davon abweichende Redezeit kann nach jedem Tagesordnungsunterpunkt, vor der Eröffnung der Redeliste und nach jedem Redebeitrag gestellt werden.
+
+(2) Ein GO-Antrag auf Begrenzung der Redezeit muss die gewünschte maximale Dauer (in Minuten) zukünftiger Redebeiträge innerhalb des aktuellen Tagesordnungspunktes enthalten.
+
+(3) Der GO-Antrag auf Begrenzung der Redezeit ist nicht zulässig, wenn er von einem Piraten gestellt wird der bereits eine Rede in der aktuellen Debatte gehalten hat oder selbst in der Redeliste eingereiht ist.
+
+(4) Die Redezeit darf nicht auf weniger als eine halbe Minute begrenzt werden.
+
+## §31 Einholung eines Meinungsbildes
+
+(1) Der Antrag ist vor jedem Tagesordnungsunterpunkt, vor der Eröffnung der Redeliste und nach jedem Redebeitrag zu stellen.
+
+(2) Ein GO-Antrag auf Einholung eines Meinungsbildes gilt ohne Abstimmung als angenommen.
+
+(3) Das Meinungsbild muss sich auf den derzeitigen Tagesordnungspunkt, den betreffenden Antrag, oder ein artverwandtes Thema beziehen.
+
+(4) Der Versammlungsleiter kann den Antrag ablehnen, muss die Ablehnung aber begründen.
+
+(5) Ein Meinungsbild wird (auch bei knappem Ergebnis) nicht ausgezählt.
+
+## §32 (gestrichen)
+
+## §33 Unterbrechung der Sitzung
+
+(1) Der Antrag ist vor jedem Tagesordnungsunterpunkt zu stellen.
+
+(2) Ein GO-Antrag auf Unterbrechung der Sitzung kann die Dauer der Unterbrechung beinhalten. Falls die Dauer nicht bestimmt ist, obliegt es dem Versammlungsleiter die Dauer zu bestimmen.
+
+## §34 Änderung der Tagesordnung
+
+(1) Der Antrag ist vor jedem Tagesordnungsunterpunkt zu stellen.
+
+(2) Eine Änderung der Tagesordnung kann sein
+
+* das Hinzufügen eines Punktes,
+
+* das Entfernen eines Punktes,
+
+* das Heraustrennen eines Punktes aus einem anderen Punkt der Tagesordnung,
+
+* das Ändern der Reihenfolge von Punkten. 
+
+(3) Ein GO-Antrag auf Änderung der Tagesordnung muss schriftlich bei der Versammlungsleitung von mindestens 5 akkreditierten Piraten gestellt werden.
+
+(4) Ein GO-Antrag auf Änderung der Tagesordnung muss sämtliche zur Änderung vorgesehenen Tagesordnungspunkte enthalten. Bei Hinzufügung, Verschiebung, Heraustrennung und der Änderung der Reihenfolge von Tagesordnungspunkten müssen eindeutige Angaben enthalten sein, wann die betreffenden Anträge behandelt werden sollen.
+
+## §35 Änderung der Geschäftsordnung
+
+(1) Der Antrag ist vor jedem Tagesordnungsunterpunkt zu stellen.
+
+(2) Ein GO-Antrag auf Änderung der Geschäftsordnung muss schriftlich bei der Versammlungsleitung von mindestens 5 akkreditierten Piraten gestellt werden.
+
+(3) Ein GO-Antrag auf Änderung der Geschäftsordnung muss eindeutig kenntlich machen, was an welcher Stelle in der Geschäftsordnung geändert werden soll. Ansonsten kann der Antrag aus formalen Gründen abgelehnt werden.
